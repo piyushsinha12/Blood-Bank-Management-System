@@ -80,12 +80,3 @@ git push origin feature-branch-name
 Go to your fork → "Compare & Pull Request"
 
 
-## 9. Contribution Rules
-- Write clean, readable code  
-- Add comments where needed  
-- Use meaningful commit messages  
-- Write PR description clearly  
-- Do not push `.env` or sensitive data  
-- Follow the folder structure
-
-Thank you for contributing!
